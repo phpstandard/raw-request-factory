@@ -1,6 +1,6 @@
 {
     "name": "phpstandard/raw-request-factory",
-    "description": "A library to create a server request that implements PSR-7 ServerRequestInterface to the raw http request string and vice versa according to the RFC2616 Section 5",
+    "description": "A library to create a server request that implements PSR-7 ServerRequestInterface from the raw http request string and vice versa according to the RFC2616 Section 5",
     "type": "library",
     "license": "MIT",
     "authors": [
